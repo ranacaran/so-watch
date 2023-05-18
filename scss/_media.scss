@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+    .pictures {
+        height: 100%;
+        width: 80%;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(20, 1fr);
+        margin: 0 auto;
+        aspect-ratio: 1 / 1;
+    }
+}

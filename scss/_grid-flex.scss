@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.pictures{
+    display: grid;
+    background-color: $background-color;
+    width: 80%;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    margin: 0 auto;
+    aspect-ratio: 1 / 1;
+}
+
+.navbar{
+    display: flex;
+    background-color: rgb(184, 184, 184);
+    margin: 0px 0px 20px 0px;
+    justify-content: space-around;
+}
