@@ -1,1 +1,1 @@
-# so-watch it is intended to be qucik search of SO, picture search oriented.
+# so-watch is intended to be qucik search of SO, picture search oriented.
